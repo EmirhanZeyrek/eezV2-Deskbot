@@ -1,5 +1,8 @@
 eezV2 Deskbot 🤖
 
+![2](https://github.com/user-attachments/assets/364f44b9-19b6-4f34-998a-4ecd5c028d99)
+
+
 An Interactive Desktop Companion Robot
 
 --- English Description --- 
